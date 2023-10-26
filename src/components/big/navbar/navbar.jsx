@@ -21,13 +21,13 @@ const Navbar = () => {
     <div className="navbar home">
       <nav className="home__nav">
         <div className="home__icon__img">
-          <NavLink to="/">
+          <NavLink to="/home">
             <img className="home__icon" src={logo} alt="" />
           </NavLink>
         </div>
         <ul className="home__nav__ul">
           <li className="home__nav__li">
-            <NavLink to="/" className="home__nav__a">
+            <NavLink to="/home" className="home__nav__a">
               <FontAwesomeIcon className="svg" icon={faHouse} />
               Home
             </NavLink>
