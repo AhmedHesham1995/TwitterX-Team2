@@ -1,4 +1,3 @@
-import React from 'react';
 import ListComp from '../small/listComp';
 import fashion from '../../assets/fashion.jpg'
 

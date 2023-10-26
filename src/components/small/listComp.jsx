@@ -1,7 +1,5 @@
-import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCirclePlus} from '@fortawesome/free-solid-svg-icons';
-import fashion from '../../assets/fashion.jpg'
 const ListComp = (props) => {
     return (
         <div className="center__discover__box">

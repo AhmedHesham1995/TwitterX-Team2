@@ -1,4 +1,3 @@
-import React from 'react';
 import Happen from '../small/happen';
 import fashion from '../../assets/fashion.jpg'
 const HappenParent = () => {

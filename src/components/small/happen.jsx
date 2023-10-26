@@ -1,5 +1,4 @@
-import React from 'react';
-import fashion from '../../assets/fashion.jpg'
+
 const Happen = (props) => {
     return (
         <div className="right__container__happening">

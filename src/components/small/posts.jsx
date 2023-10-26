@@ -1,7 +1,5 @@
-import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faComment, faRetweet, faHeart, faChartBar, faArrowUp, faImage, faSquare, faSmile, faCalendar, faLocationDot } from '@fortawesome/free-solid-svg-icons';
-import h from '../../assets/h.jpg'
+import { faComment, faRetweet, faHeart, faChartBar, faArrowUp} from '@fortawesome/free-solid-svg-icons';
 const Posts = (props) => {
     return (
         <div className="center__post">

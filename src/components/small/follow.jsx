@@ -1,5 +1,3 @@
-import React from 'react';
-import h from '../../assets/h.jpg'
 const Follow = (props) => {
     return (
         <div className="right__container__who">

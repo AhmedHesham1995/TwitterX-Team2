@@ -1,4 +1,3 @@
-import React from 'react';
 import Follow from '../small/follow';
 import h from '../../assets/h.jpg'
 
