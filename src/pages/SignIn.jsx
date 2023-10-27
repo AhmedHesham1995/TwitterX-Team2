@@ -120,7 +120,7 @@ const SignIn = () => {
 
                                 <button type="submit" className="btn border rounded-pill btn-light fw-bold">sign in</button>
                                 <button type="button" className="btn border rounded-pill text-light fw-bold">Forgot Password?</button>
-                                <p className="SUText">Don't have an account? <NavLink to="/SignUp">Sign up</NavLink></p>
+                                <p className="SUText">Dont have an account ? <NavLink to="/SignUp">Sign up</NavLink></p>
                                 <h5><NavLink to='/join' className='text-danger'>back</NavLink> </h5>
                             </div>
                         </div>

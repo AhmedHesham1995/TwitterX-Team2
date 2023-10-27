@@ -1301,11 +1301,13 @@ justify-content: center;
 }
 
 /* ///////////////////////////////////////////////////Sign in///////////////////////////////////////////// */
+/* sign in styling in css */
 .bg-dark{
   min-height: 100vh;
 }
 
 .BBG{
+  /* padding: 2rem; */
   /* padding: 2rem; */
 }
 
@@ -1324,6 +1326,9 @@ justify-content: center;
 .root{
   font-size: 17px;
 }
+/* .cur{
+  cursor: pointer;
+} */
 .cur{
   cursor: pointer;
 }
