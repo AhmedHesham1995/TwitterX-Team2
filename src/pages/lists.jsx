@@ -1,15 +1,10 @@
 import React from 'react';
 import { Row,Col } from 'react-bootstrap';
 import Navbar from '../components/big/navbar/navbar';
-
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {  faMagnifyingGlass,faCirclePlus} from '@fortawesome/free-solid-svg-icons';
-
+import { faMagnifyingGlass} from '@fortawesome/free-solid-svg-icons';
 import fashion from '../assets/fashion.jpg';
-import h from '../assets/h.jpg';
 import Premium from '../components/small/premium';
-import Happen from '../components/small/happen';
-import Follow from '../components/small/follow';
 import ListComp from '../components/small/listComp';
 import HappenParent from '../components/medium/happenParent';
 import FollowParent from '../components/medium/followParent';

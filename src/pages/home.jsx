@@ -2,13 +2,10 @@
 import React from 'react';
 import Navbar from '../components/big/navbar/navbar';
 import h from '../assets/h.jpg';
-import fashion from '../assets/fashion.jpg';
-import { Col, Container, Row } from 'react-bootstrap';
+import { Col,Row } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faComment, faRetweet, faHeart, faChartBar, faArrowUp, faImage, faSquare, faSmile, faCalendar, faLocationDot } from '@fortawesome/free-solid-svg-icons';
+import { faImage, faSquare, faSmile, faCalendar, faLocationDot } from '@fortawesome/free-solid-svg-icons';
 import Premium from '../components/small/premium';
-import Happen from '../components/small/happen';
-import Follow from '../components/small/follow';
 import Posts from '../components/small/posts';
 import HappenParent from '../components/medium/happenParent';
 import FollowParent from '../components/medium/followParent';
