@@ -11,6 +11,11 @@ import NotFound from './pages/notFound'
 import Join from './pages/Join'
 import SignUp from './pages/SignUp'
 import SignIn from './pages/SignIn'
+import Notification from './pages/Notifications/notification'
+import Mentions from './pages/Notifications/mentions'
+import Verified from './pages/Notifications/verified'
+
+
 function App() {
   
 
@@ -23,6 +28,9 @@ function App() {
         {path: 'home', element: <Home/>},
         {path: 'explore', element: <Explore/>},
         {path: 'lists', element: <Lists/>},
+        {path:'notification', element: <Notification/>},
+        {path: 'mentions', element: <Mentions/>},
+        {path:'verified', element: <Verified/>},
         {path: 'join', element: <Join/>},
         {path: 'signUp', element: <SignUp/>},
         {path: 'signIn', element: <SignIn/>},

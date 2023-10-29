@@ -45,11 +45,11 @@ const Navbar = () => {
             </NavLink>
           </li>
           <li className="home__nav__li">
-            <NavLink to="/notifications" className="home__nav__a">
+            <NavLink to="/notification" className="home__nav__a">
               <FontAwesomeIcon className="svg" icon={faBell} />
               Notifications
             </NavLink>
-            <NavLink to="/notifications" className="home__nav__a-hidden">
+            <NavLink to="/notification" className="home__nav__a-hidden">
               <FontAwesomeIcon className="svg" icon={faBell} />
             </NavLink>
           </li>
